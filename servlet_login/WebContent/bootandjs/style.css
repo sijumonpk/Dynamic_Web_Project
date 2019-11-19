@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+body{
+	background-image: url(5cf492d41c99f7b6ea5c5805fc197dd2.jpg);
+	background-size: cover;
+}
+form{
+	
+	color: red;
+	border-radius: 20%;
+	width: 80%;
+	background: linear-gradient(
+	rgba(0, 0, 0, 0.7);
+	rgba(0, 0, 0, 0.7);
+	
+	);
+	
+}
+input{
+	width: 100%;
+	heigt: 10%;
+}
+#btn{
+	width: 50%;
+	background-color: light green;
+	
+}
